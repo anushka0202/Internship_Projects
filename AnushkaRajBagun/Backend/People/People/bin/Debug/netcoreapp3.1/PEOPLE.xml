@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PEOPLE</name>
+    </assembly>
+    <members>
+        <member name="M:PEOPLE.Controllers.PeopleController.GetAllPeople">
+            <summary>    
+            Gets list of People   
+            </summary>    
+            <returns>List of People</returns>
+            <response code="200">List of People</response>
+            <response code="404">None</response>
+        </member>
+        <member name="M:PEOPLE.Controllers.PeopleController.GetPersonById(System.Guid)">
+            <summary>
+            Gets a specific person by unique id
+            </summary>
+            <response code="200">Gets a specific person</response>
+            <response code="404">None</response>
+        </member>
+        <member name="M:PEOPLE.Controllers.PeopleController.CreatePerson(PEOPLE.Dtos.PersonCreateDto)">
+            <summary>
+            Creates a new person
+            </summary>
+            <response code="201">List of People</response>
+            <response code="400">Example : “First Name is empty”</response>
+        </member>
+        <member name="M:PEOPLE.Controllers.PeopleController.UpdatePerson(System.Guid,PEOPLE.Dtos.PersonUpdateDto)">
+            <summary>
+            Updates a specific person by unique id
+            </summary>
+            <response code="204">None</response>
+            <response code="404">None</response>
+            <response code="400">Example : “First Name is empty”</response>
+        </member>
+        <member name="M:PEOPLE.Controllers.PeopleController.PartialPersonUpdate(System.Guid,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{PEOPLE.Dtos.PersonUpdateDto})">
+            <summary>
+            Updates a specific field of a person by unique id
+            </summary>
+        </member>
+        <member name="M:PEOPLE.Controllers.PeopleController.DeletePerson(System.Guid)">
+            <summary>
+            Deletes a specific person by unique id
+            </summary>
+            <response code="204">None</response>
+            <response code="404">None</response>
+        </member>
+    </members>
+</doc>

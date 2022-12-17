@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectApprovalApp2", "ProjectApprovalApp2\ProjectApprovalApp2.csproj", "{B5648DC2-BDC6-4AC5-A2AD-ABE02CABF2D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectApprovalRepo", "ProjectApprovalRepo\ProjectApprovalRepo.csproj", "{CFF53AD1-E382-49FB-962E-A4ADE9A42E98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5648DC2-BDC6-4AC5-A2AD-ABE02CABF2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5648DC2-BDC6-4AC5-A2AD-ABE02CABF2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5648DC2-BDC6-4AC5-A2AD-ABE02CABF2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5648DC2-BDC6-4AC5-A2AD-ABE02CABF2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF53AD1-E382-49FB-962E-A4ADE9A42E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF53AD1-E382-49FB-962E-A4ADE9A42E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF53AD1-E382-49FB-962E-A4ADE9A42E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF53AD1-E382-49FB-962E-A4ADE9A42E98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F027F86-8A3F-4F25-AC45-84508FBD65DD}
+	EndGlobalSection
+EndGlobal

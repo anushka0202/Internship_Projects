@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\People",
+    "\\People.Test",
+    "\\People\\Controllers",
+    "\\People\\Data",
+    "\\People\\Dtos",
+    "\\People\\Migrations",
+    "\\People\\Models",
+    "\\People\\Profiles"
+  ],
+  "SelectedNode": "\\People\\Dtos\\PersonReadDto.cs",
+  "PreviewInSolutionExplorer": false
+}

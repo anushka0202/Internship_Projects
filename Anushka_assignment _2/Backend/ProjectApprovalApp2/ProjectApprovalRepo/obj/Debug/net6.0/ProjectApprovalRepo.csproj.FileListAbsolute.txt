@@ -1,0 +1,12 @@
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\ProjectApprovalRepo.csproj.AssemblyReference.cache
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\ProjectApprovalRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\ProjectApprovalRepo.AssemblyInfoInputs.cache
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\ProjectApprovalRepo.AssemblyInfo.cs
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\ProjectApprovalRepo.csproj.CoreCompileInputs.cache
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\bin\Debug\net6.0\ProjectApprovalRepo.deps.json
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\bin\Debug\net6.0\ProjectApprovalRepo.dll
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\bin\Debug\net6.0\ProjectApprovalRepo.pdb
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\ProjectApprovalRepo.dll
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\refint\ProjectApprovalRepo.dll
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\ProjectApprovalRepo.pdb
+C:\Users\AnushkaBagun\Documents\PROJECT\Backend\ProjectApprovalApp2\ProjectApprovalRepo\obj\Debug\net6.0\ref\ProjectApprovalRepo.dll
